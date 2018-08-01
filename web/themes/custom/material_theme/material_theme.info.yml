@@ -1,0 +1,22 @@
+name: Material Theme
+type: theme
+description: 'Material theme for front end.'
+package: material
+core: 8.x
+libraries:
+  - material_theme/global-styling
+ 
+base theme: material_admin
+
+regions:
+  header_left: Header Left
+  header_mid: Header Middle
+  header_right: Header Right
+  highlighted: highlighted
+  navigation: Navigation
+  top_content: Top Content
+  content: Content
+  bottom_content: Bottom Content
+  footer_top: Footer Top
+  footer: Footer
+  footer_bottom: Footer Bottom

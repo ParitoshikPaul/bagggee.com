@@ -1,0 +1,7 @@
+header.header-wrapper{
+  background: #23334B;
+}
+.header-wrapper .site-logo img {
+  width: 90%;
+  padding: 10px;
+}

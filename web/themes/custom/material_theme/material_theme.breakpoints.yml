@@ -1,0 +1,12 @@
+material_theme.mobile:
+  label: mobile
+  mediaQuery: 'all and (min-width: 320px) and (max-width: 560px)'
+  weight: '1'
+material_theme.tab:
+  label: tab
+  mediaQuery: 'all and (min-width: 560px) and (max-width: 850px)'
+  weight: '2'
+material_theme.narrow:
+  label: narrow
+  mediaQuery: 'all and (min-width: 850px) and (max-width: 1200px)'
+  weight: '3'
